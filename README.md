@@ -34,7 +34,9 @@ The following **required** functionality is completed:
 3. Facebook
 - Post and share content
 - Friend others
- 
+
+I would like to create a bowling application that tracks your scores throughout the season. There would be features like note taking, the pins that fell, averages for your set, and the ability to track certain statistics.
+  
 ## Notes
 
 First time developing an ios application
